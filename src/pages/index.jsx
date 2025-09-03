@@ -1,5 +1,5 @@
 import Home from "./home/Home";
-import About from "./About/About";
+import About from "./about/About";
 import Donate from "./donate/Donate";
 import Gallery from "./gallery/Gallery";
 import Join from "./join/Join";
